@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'TaskFlow.apps.TaskflowConfig',
 
+    'rest_framework',
+
     'tasks'
 ]
 
